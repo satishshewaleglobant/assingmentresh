@@ -1,4 +1,5 @@
 
+//comment made by satish
 //Module Design pattern
 
 var currentModule = (function(){
